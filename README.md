@@ -9,7 +9,7 @@ This Data Analysis project aims to generate insight into the sales performance o
 The primary source of data used here is data sale.
 
 ### Tools Used
-- Microsoft Excel (Download Here)(https://www.microsoft.com)
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   1. Data Cleaning
   2. Data  Analysis
   3. Data Visualization
