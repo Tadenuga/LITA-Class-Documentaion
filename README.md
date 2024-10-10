@@ -61,6 +61,8 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 ---
+![pivot table1](https://github.com/user-attachments/assets/e2db84c7-d284-47fd-af9e-5e70a25cfa41)
+![pivot table 2](https://github.com/user-attachments/assets/d80f5de9-c571-48ff-b111-ddc6738d6ec4)
 
 
 
